@@ -2,6 +2,10 @@
 > **"Learn it. Build it. Simulate it."**  
 > A full-stack, cross-platform learning ecosystem for students, featuring interactive 3D WebGL circuit and robot simulation, Rituu AI copilot (powered by Google Gemini), Google Maps maker shops radar, TechSavyyy hardware store, and a master admin control center.
 
+## 🌐 Live App
+
+Visit RoboVerse at [https://roboverse-delta.vercel.app/](https://roboverse-delta.vercel.app/).
+
 ---
 
 ## 🎨 Design Language & Visual System
